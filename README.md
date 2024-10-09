@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naga Venkata Somaraju</h1>
 <h3 align="center">Full Stack Developer | Java Spring Boot & React</h3>
+
 I am a Full Stack Developer with expertise in React and Java Spring Boot. I specialize in creating web applications, building responsive UIs with React (Formik, Yup, Material-UI), and integrating APIs with Axios. On the backend, I develop RESTful APIs with Spring Boot and manage databases using PostgreSQL and Spring JPA. Proficient with Postman for API testing, I’m eager to contribute to dynamic projects and grow in challenging environments.
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somaraju080102" alt="somaraju080102" /></a> </p>
 
