@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naga Venkata Somaraju</h1>
 <h3 align="center">Full Stack Developer | Java Spring Boot & React</h3>
 
-I am a Full Stack Developer with expertise in React and Java Spring Boot. I specialize in creating web applications, building responsive UIs with React (Formik, Yup, Material-UI), and integrating APIs with Axios. On the backend, I develop RESTful APIs with Spring Boot and manage databases using PostgreSQL and Spring JPA. Proficient with Postman for API testing, I’m eager to contribute to dynamic projects and grow in challenging environments.
+I’m a Full Stack Developer skilled in React and Java Spring Boot, building responsive, user-friendly web applications. I work with tools like Formik, Yup, Material-UI, and Axios on the frontend, and develop RESTful APIs using Spring Boot, PostgreSQL, and Spring Data JPA on the backend.
+Comfortable with cloud deployment, I’ve deployed apps to Azure App Services, hosted databases on Azure PostgreSQL, and containerized applications using Docker. I also manage multi-service setups with Docker Compose, and use Postman for thorough API testing and debugging.
+
+
 
 <br>
 
