@@ -16,7 +16,7 @@ Comfortable with cloud deployment, I’ve deployed apps to Azure App Services, h
 
 - 👨‍💻 All of my projects are available at [https://github.com/Somaraju080102?tab=repositories](https://github.com/Somaraju080102?tab=repositories)
 
-- 💬 Ask me about **React,Java, Spring**
+- 💬 Ask me about **React,Java, Spring,Docker**
 
 - 📫 How to reach me **somarajuindukuri080102@gmail.com**
 
