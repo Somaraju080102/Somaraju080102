@@ -10,7 +10,7 @@ Comfortable with cloud deployment, I’ve deployed apps to Azure App Services, h
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somaraju080102" alt="somaraju080102" /></a> </p>
 
-- 🔭 I’m currently working on [BankingApi](https://github.com/Somaraju080102/banking-api-frontend)
+- 🔭 I’m currently working on [Medi-Conncet](https://github.com/Somaraju080102/medi-connect)
 
 - 🌱 I’m currently learning **React,Springboot,Devops**
 
