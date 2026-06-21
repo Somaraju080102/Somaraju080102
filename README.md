@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Naga Venkata Somaraju</h1>
-<h3 align="center">Full Stack Developer | Java Spring Boot & React</h3>
+<h3 align="center">Backend Engineering • Linux • Cloud </h3>
 
-I’m a Full Stack Developer skilled in React and Java Spring Boot, building responsive, user-friendly web applications. I work with tools like Formik, Yup, Material-UI, and Axios on the frontend, and develop RESTful APIs using Spring Boot, PostgreSQL, and Spring Data JPA on the backend.
-Comfortable with cloud deployment, I’ve deployed apps to Azure App Services, hosted databases on Azure PostgreSQL, and containerized applications using Docker. I also manage multi-service setups with Docker Compose, and use Postman for thorough API testing and debugging.
+🔭 Exploring Cloud, Distributed Systems, and Backend Engineering
 
+💻 Building with Java, Spring Boot, PostgreSQL, Docker, and Linux
 
+⚙️ Interested in System Design, Automation, Observability, and Infrastructure
+
+🌱 Currently learning Cloud Architecture, DevOps, and Distributed Systems
+
+🚀 Passionate about building reliable systems and understanding how they work behind the scenes.
 
 <br>
 
@@ -12,11 +17,11 @@ Comfortable with cloud deployment, I’ve deployed apps to Azure App Services, h
 
 - 🔭 I’m currently working on [Linuxate](https://github.com/Somaraju080102/linuxmate.git)
 
-- 🌱 I’m currently learning **React,Devops**
+- 🌱 I’m currently learning * Cloud Architecture, DevOps, and Distributed Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Somaraju080102?tab=repositories](https://github.com/Somaraju080102?tab=repositories)
 
-- 💬 Ask me about **React,Java,Spring,Spingboot,Docker**
+- 💬 Ask me about **Linux,Java,Spring,Spingboot,Docker**
 
 - 📫 How to reach me **somarajuindukuri080102@gmail.com**
 
