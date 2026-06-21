@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somaraju080102" alt="somaraju080102" /></a> </p>
 
-- 🔭 I’m currently working on [Linuxate](https://github.com/Somaraju080102/linuxmate.git)
+- 🔭 I’m currently working on [Linuxmate](https://github.com/Somaraju080102/linuxmate.git)
 
 - 🌱 I’m currently learning * Cloud Architecture, DevOps, and Distributed Systems**
 
